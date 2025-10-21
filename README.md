@@ -6,28 +6,9 @@
 
 ### 🧠 Giới thiệu bản thân
 - 🔭 Hiện tại tôi đang làm việc với **Node.js, HTML, CSS, JavaScript**
-- 🌱 Đang học thêm **ReactJS và TailwindCSS**
-- 💬 Hỏi tôi về **web backend, JSON, và API**
+- 🌱 Đang học thêm **ReactJS và Nodejs**
+- 💬 Hỏi tôi về **web full-stack, JSON, và API**
 - ⚡ Fun fact: Tôi thích code vào ban đêm 🌙
-
----
-
-### 🚀 Ngôn ngữ & Công cụ
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,git,vscode" />
-</p>
-
----
-
-### 📊 Thống kê GitHub của tôi
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
-</p>
 
 ---
 
